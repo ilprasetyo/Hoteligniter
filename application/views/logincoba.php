@@ -77,6 +77,8 @@
 								<input type="text" Name="No. KTP" placeholder="No. KTP" required="">
 								<label>Alamat</label>
 								<input type="text" Name="Alamat" placeholder="Alamat" required="">
+								<label>Username</label>
+								<input type="text" Name="Username" placeholder="Username" required="">
 								<label>Email</label>
 								<input type="text" Name="Email" placeholder="Email" required="">
 								<label>Password</label>
