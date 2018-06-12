@@ -77,14 +77,12 @@
 								<input type="text" Name="No. KTP" placeholder="No. KTP" required="">
 								<label>Alamat</label>
 								<input type="text" Name="Alamat" placeholder="Alamat" required="">
-								<label>Username</label>
-								<input type="text" Name="Username" placeholder="Username" required="">
 								<label>Email</label>
 								<input type="text" Name="Email" placeholder="Email" required="">
+								<label>Username</label>
+								<input type="text" Name="Username" placeholder="Username" required="">
 								<label>Password</label>
 								<input type="password" Name="Password" placeholder="Password" required="">
-								<label>Confirm Password</label>
-								<input type="password" Name="Password" class="lessgap" placeholder="Confirm Password" required="">
 								<div class="send-button">
 								<input type="submit" value="REGISTER">
 								</div>
